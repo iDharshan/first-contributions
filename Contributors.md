@@ -12,6 +12,7 @@
 - [Pavankalyan Nagulla](https://github.com/Pavan-Nagulla)
 - [Mohd Farhan Nawaz](https://github.com/mohdfarhannawaz)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
+- [Dharshan](https://github.com/iDharshan)
 - [Anadu Godwin](https://github.com/AnaduCG)
 - [Youssef Jrab](https://github.com/yjrab)
 - [Isaiah Swain](https://github.com/imswain)
